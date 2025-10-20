@@ -3,4 +3,5 @@
   print "ciao";
   print "buonasera";
   print "prova fork";
+  print "sono un grande";
 ?>  
